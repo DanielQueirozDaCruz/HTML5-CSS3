@@ -33,9 +33,9 @@ body{
 	background: #f2f2f2;
 }
 #conteiner{
-	width: 85%;
+	width: 960px;
 	margin: 0 auto;
-	background: #fff;
+	background: #fff url(../coluna.png) repeat-y top left;
 	min-width: 720px;
 }
 #marca{
@@ -79,7 +79,7 @@ body{
 	float: left;
 	padding-top: 20px;
 	padding-bottom: 20px;
-	background: #d1d1d1;
+	
 }
 #rodape{
 	clear: both;
